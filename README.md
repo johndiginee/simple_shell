@@ -4,7 +4,9 @@ This is a project created by John Diginee and Chris Adams Adewuni. This project 
 
 #### Start
 **1. Git clone this respository to your local directory.
+```
 $ git clone https://github.com/johndiginee/simple_shell.git
+```
 
 **2. Compile the program.
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
