@@ -1,4 +1,4 @@
-#### Simple_shell
+# Simple_shell
 ****
 This is a project created by John Diginee and Chris Adams Adewuni. This project recreates the shell which is the Linux command line interpreter in its simplest form. It provides an interface between the user and the kernel and executes programs.
 
