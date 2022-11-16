@@ -9,11 +9,13 @@ $ git clone https://github.com/johndiginee/simple_shell.git
 ```
 
 **2. Compile the program.
+```
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
-
+```
 **3. Now execute the shell.
+ ```
 $ ./hsh
-
+```
 #### Builtin Commands
 **This shell supports the next builtin commands:
 
